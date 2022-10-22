@@ -1,0 +1,3 @@
+class Remote{{name.pascalCase()}} {
+
+}
